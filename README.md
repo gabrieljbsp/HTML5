@@ -1,2 +1,38 @@
-# HTML5
- CURSO DE HTML5 CSS E JAVASCRIPT - CURSO EM VIDEO
+- [x] Aula  0 - Site Completo
+- [x] Aula  1 - História da Internet
+- [x] Aula  2 - História do HTML
+- [x] Aula  3 - Como Funciona a Internet
+- [x] Conteúdo para o Curso de HTML5
+- [x] Aula  4 - Primeiro Exemplo em HTML5
+- [x] Aula  5 - Tags Básicas em HTML5
+- [x] Aula  6 - Parágrafos, Quebras e Símbolos Especiais
+- [x] Aula  7 - Formatação de Texto com HTML5 e CSS3
+- [x] Aula  8 - Códigos de Cores em HTML5 e CSS3
+- [x] Aula  9 - Imagen sem HTML5
+- [x] Aula 10 - Formatação de Imagens com CSS3
+- [x] Aula 11 - Listas em HTML5 com OL e UL
+- [x] Aula 12 - Links em HTML5
+- [x] Aula 13 - Menu com CSS3
+- [x] Aula 14 - Efeitos visuais em CSS3
+- [x] Aula 15 - Formatação de Interfaces com HTML5
+- [x] Aula 16 - Cabeçalho em CSS3
+- [x] Aula 17 - Fontes em CSS3
+- [x] Aula 18 - Semântica em HTML5
+- [x] Aula 19 - Tabelas em HTML
+- [x] Aula 20 - Estilos CSS para Tabelas em HTML5
+- [x] Aula 21 - Interfaces em HTML5
+- [x] Aula 22 - Introdução ao JavaScript
+- [x] Aula 23 - JavaScript com Objetos
+- [x] Aula 24 - Funções JavaScript
+- [x] Aula 25 - Integrando JavaScript e HTML5
+- [x] Aula 26 - Documentos Adicionais
+- [x] Aula 27 - IFRAME em HTML5
+- [x] Aula 28 - Mapas de Imagem
+- [x] Aula 29 - Álbum de Fotos em HTML5 - Parte1
+- [x] Aula 30 - Álbum de Fotos em HTML5 - Parte2
+- [x] Aula 31 - Áudio e Vídeo em HTML5
+- [x] Aula 32 - Áudio e Vídeo Avançados
+- [x] Aula 33 - Formulários em HTML5 (parte1)
+- [x] Aula 34 - Formulários em HTML5 (parte2)
+- [x] Aula 35 - Como Hospedar um Site
+- [x] Aula 36 - Formulários com JavaScript
